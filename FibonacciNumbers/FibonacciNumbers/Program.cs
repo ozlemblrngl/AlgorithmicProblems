@@ -7,7 +7,7 @@
         decimal number3;
 
 
-        for (ulong i = 1; i < 100; i++)
+        for (int i = 1; i < 100; i++)
         {
 
             number3 = number1 + number2;
@@ -20,6 +20,7 @@
 
 
         // 0,1,1,2,3,5,8,13,21
-
+       
+        Console.ReadLine();
     }
 }
