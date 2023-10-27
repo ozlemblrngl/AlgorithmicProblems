@@ -1,7 +1,7 @@
 # AlgorithmicProblems
 Various Algorithmic Problems and Solutions
 
-Above folders include all solution code of below Algorithmic Questions
+Above folders include all solution codes of below Algorithmic Questions
 
         // 1-Write a C# program to check if the entered number is Armstrong number?
         // 2-Write a C# function to print first 100 numbers in Fibonacci series?
